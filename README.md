@@ -22,6 +22,9 @@ Software Engineer with a strong foundation in web programming, database manageme
 - **[Toronto Bikeshare Ridership Data Pipeline](https://github.com/ismyusuf/Toronto-Bikeshare-Pipeline)** - A project that implementing batch processing pipelines, this project ensures efficient data ingestion and transformation on a scheduled basis, enabling data analysts to derive meaningful insights from Toronto's bikeshare ridership trends. Built with Kestra - Data Orchestration,Google Cloud Platform (GCP) - Storage & BigQuery, Docker - Containerization, Looker Studio - Dashboard & Visualization.
 - **[Flask Inventory Management](https://github.com/ismyusuf/inventory-management)** - A inventory management built with Flask, Firebase Firestore and hosted with pythonanywhere.
 - **[Mobile Inventory Management](https://github.com/ismyusuf/ProductManagementApp)** - A mobile inventory management it's a Mobile version of Inventory Management built with Kotlin and user Firebase Firestore as NoSQL database.
+- **[MOKA App](https://github.com/vexelated/moka)** - Involved in Bangkit Academy as a machine learning engineer, created a machine learning model that can detect drowsiness for MOKA App.
+
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=ismyusuf&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
